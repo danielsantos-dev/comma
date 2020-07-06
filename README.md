@@ -1,1 +1,3 @@
-to run on dev , npm run dev
+npm i on client, npm i on server package.json 
+
+npm run dev
