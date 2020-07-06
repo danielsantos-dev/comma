@@ -1,0 +1,19 @@
+.container {
+    height: 70%;
+    width: 80%;
+    background: var(--theme-primary);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header > img {
+    margin-right: 5px;
+}

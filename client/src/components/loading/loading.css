@@ -1,0 +1,26 @@
+/* Container holding the image and the text */
+.container-2 {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height:92vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+  }
+
+.image {
+    margin-top:-15%;
+    width:10%;
+    height:auto;
+}
+
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
